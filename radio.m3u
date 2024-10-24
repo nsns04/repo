@@ -1,0 +1,58 @@
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/yPBGTqV/2.png" group-title="",TRT FM
+https://trt.radyotvonline.net/trtfm
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/2kwNyR7/1.png" group-title="",TRT Radyo 1
+https://trt.radyotvonline.net/trt1
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/bdNMBF5/17.png" group-title="",Radyo D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/85SF0qv/23.png" group-title="",Süper FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC.aac
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/BVzcx8g/6.png" group-title="",Best FM
+https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/QvGrgWw/10.png" group-title="",Kral Pop Radyo
+https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/8shLsWX/12.png" group-title="",Metro FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_ITUNES.mp3
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/x7nMgmD/13.png" group-title="",NR1 FM
+https://n10101m.mediatriple.net/numberone
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/RbHxGZY/14.png" group-title="",NR1 Türk FM
+https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/sm9j3hd/15.png" group-title="",Power FM
+https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/9nL938v/16.png" group-title="",Power Türk FM
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/W5RsV7j/20.png" group-title="",Radyo Turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/ByDWPXX/9.png" group-title="",Kafa Radyo
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/6NgJRKt/5.png" group-title="",Alem FM
+https://edge1.radyotvonline.net/shoutcast/play/alemfm
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/sPcwDkp/21.png" group-title="",Show Radio
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/106DF2N/26.png" group-title="",Virgin Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/rmQvZLC/8.png" group-title="",JoyTürk
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/FY7tCD5/22.png" group-title="",Slow Türk
+https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/kHmV2hF/3.png" group-title="",TRT Türkü
+https://rd-trtturku.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/zGY3GZ4/25.png" group-title="",Türkiye Polis Radyosu
+https://m.egm.gov.tr:8093/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/DW97q9K/11.png" group-title="",Meteorolojinin Sesi Radyosu
+http://radyo.yayin.com.tr:6227/stream
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/0DDNPwW/7.png" group-title="",Habertürk Radyo
+https://haberturkradyo.radyotvonline.net/haberturkradyo
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/XW6Jkjg/4.png" group-title="",A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/cF62W2g/19.png" group-title="",Radyo Spor
+https://wowza1.radyotvonline.com/saran/radyospor.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/YPqMVgk/27.png" group-title="",Vitamin FM
+https://vitaminfm.80.yayin.com.tr/stream
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/4JkQ6Zn/29.png" group-title="",Radyo Karadeniz
+https://sslyayin.netyayin.net/8012/stream
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/dKff3XD/24.png" group-title="",Taka FM
+http://dj.msteknoloji.com:8586/;stream.nsv
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/BVDbJZv/18.png" group-title="",Radyo Kadırga
+https://radyo.yayin.com.tr:4022/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="radio.tr" tvg-logo="https://i.ibb.co/F8BVP3b/28.png" group-title="",Karadeniz Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect//SC005_SO1AAC.aac?/;stream.mp3
